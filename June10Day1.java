@@ -6,7 +6,7 @@ Finally, you must use the ++ operator to perform the following operations:
 Print the sum of i plus your int variable on a new line.
 Print the sum of d plus your double variable to a scale of one decimal place on a new line.
 Concatenate s with the string you read as input and print the result on a new line.
-Note: If you are using a language that doesn’t support using ++ for string concatenation (e.g.: CC), 
+Note: If you are using a language that doesnâ€™t support using ++ for string concatenation (e.g.: CC), 
 you can just print one variable immediately following the other on the same line. 
 The string provided in your editor must be printed first, immediately followed by the string you read as input.*/
 /*Input Format
@@ -29,7 +29,7 @@ Sample Output
 16
 8.0
 HackerRank is the best place to learn and practice coding!*/
-package Coding;
+package Coding; /*have done thisunder package coding ,you can skip if you havn't initialized it */
 import java.util.*;
 public class June10Day1{
 	public static void main(String[] args) {
