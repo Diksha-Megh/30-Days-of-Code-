@@ -1,4 +1,7 @@
-package Coding;
+/*Task Find the totalCost given meal cost ,tip percet,tax percent
+find tip as mealcost*tip/100 and tax insimilar way 
+write the total cost as a round off number not in decimal  */
+package Coding;//i am using this package ,you can avoid this step
 import java.io.*;
 import java.math.*;
 import java.security.*;
